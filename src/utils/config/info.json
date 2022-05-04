@@ -1,0 +1,11 @@
+{
+    "User": {
+        "first_name": "Vladymyr",
+        "short_bio": "love music",
+        "public_contacts": [
+            "contact 1",
+            "contact 2",
+            "contact 3"
+        ]
+    }
+}
